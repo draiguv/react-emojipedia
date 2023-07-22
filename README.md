@@ -1,2 +1,2 @@
 # react-emojipedia
-React Props Training
+React Training
